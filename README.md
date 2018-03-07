@@ -1,15 +1,15 @@
-# tornado_setup
+# Tornado_setup
 easily set up tornado app with templates
-# usage
-## install
+# Usage
+## Installation
 ```sh
 source install.sh
 ```
-## setup new app
+## Setup new app
 ```sh
 tornado_setup <app-name>
 ```
-# directory-tree
+# Directory-tree
 ```
 .
 ├── server.py
@@ -23,3 +23,6 @@ tornado_setup <app-name>
      .
      .  
 ```
+# Version
+* Python: 3.6.4
+* Tornado: 5.0
