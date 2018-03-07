@@ -4,6 +4,7 @@ easily set up tornado app with templates
 source install.sh
 tornado_setup <app-name>
 # directory-tree
+```
 .
 ├── server.py
 ├── static
@@ -14,5 +15,5 @@ tornado_setup <app-name>
 └── venv
      .
      .
-     .
-     
+     .  
+```
