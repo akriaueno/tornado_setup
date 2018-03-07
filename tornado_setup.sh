@@ -1,5 +1,4 @@
-#!/bin/sh
-
+#!/bin/bash
 mkdir $1 # $1 is app-name
 cd $1
 /opt/python/versions/3.6.4/bin/python3 -m venv venv
