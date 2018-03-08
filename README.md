@@ -3,7 +3,7 @@ easily set up tornado app with templates
 # Usage
 ## Installation
 ```sh
-source install.sh
+source install # commands will be installed under ~/bin/
 ```
 ## Setup new app
 ```sh
