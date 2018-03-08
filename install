@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir -p $HOME/bin/setup/tornado
+cp tornado_setup template.py template.html template.css $HOME/.scripts/setup/tornado
+echo "alias tornado_setup='source $HOME/bin/setup/tornado/tornado_setup'" >> $HOME/.bashrc
+source $HOME/.bashrc
